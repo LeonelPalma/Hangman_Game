@@ -1,8 +1,9 @@
 # Simple Hangman Game in Python
 
-This is a simple Hangman game using Python programming language.
-The rules are simple; a player writes down the first and last letters of a word and another player guesses the letters in between.
+<p>This is a simple Hangman game using Python programming language.</p>
+<p>The rules are simple; a player writes down the first and last letters of a word and another player guesses the letters in between.</p>
 
+<br>
 Please run the program on your terminal. For the result to be what you see in the next image:
 ![hangman_python-game](https://user-images.githubusercontent.com/80472480/228915728-a5bf01b9-99e5-446e-a7bd-818e19df49b0.PNG)
 
